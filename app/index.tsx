@@ -1,6 +1,5 @@
 
-
-import IntroScreen from "@/components/Introscreen";
+import IntroScreen from "@/screens/Introscreen";
 export default function Index() {
   return (
     <IntroScreen/>
